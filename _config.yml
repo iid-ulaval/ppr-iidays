@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-relative-links
+  - no_intra_emphasis
+  - autolink
+  - tables
+  - strikethrough
+  - superscript
+  - with_to_data
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - LICENSE.md
+  - CONTRIBUTING.md
+
+theme: jekyll-theme-tactile
+show_downloads: false
+
+title: "[Stages MIIA]"
+description: "Informations sur les stages de la Maitrise professionnelle en Informatique Intelligence Artificielle (MIIA). Comment proposer un stage et avoir un financement, comment voir les stages disponibles, toutes les informations sur les différents processus de stage."

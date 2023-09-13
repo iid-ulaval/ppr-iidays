@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fr" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" >
+  </head>
+
+  <body>
+    {% include header.html %}
+    {% include navbar.html %}
+
+    <div id="container">
+      <div class="inner">
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        <footer>
+          {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+          Cette page est générée par les <a href="https://pages.github.com">Pages GitHub</a>. Sous licence <a href="{{ '/LICENSE.html' | relative_url }}">MIT</a>.
+        </footer>
+
+      </div>
+    </div>
+  </body>
+</html>
