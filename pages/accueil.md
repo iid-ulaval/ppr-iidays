@@ -36,7 +36,7 @@ La 1ère Journée du personnel professionnel de recherche ULaval vise à échang
 _Ex: J’ai une question pour X. Si je le connais, j’hésite moins à le contacter._
 2. Avoir connaissance des thèmes de recherche/transfert de connaissance, et des outils.
 3. Avoir un portrait global des données et des types de données qui sont collectées, produites, manipulées et analysées à l’ULaval (au sens large: FSG, FSS, CHU, ...)
-4. Débuter une réflexion sur le développement d’une communauté universitaire de ULaval autour des pratiques (de rédaction de proposition de subvention; de gestion de projets de recherche; de production d’articles scientifiques) et des programmes de formation/certification/conformité du personnel.
+4. Débuter une réflexion sur le développement d’une communauté universitaire de ULaval autour des pratiques (de rédaction de proposition de subvention; de gestion de projets de recherche; de production d’articles scientifiques) et des programmes de formation/certification/conformité du personnel...
 <!-- 5. Échanger sur la possibilité de s’ouvrir à l’intra-prenariat entre autres dans le secteur des données. -->
 
 ### Les intérêts de l'IID
