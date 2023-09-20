@@ -17,7 +17,7 @@ La 1ère Journée du personnel professionnel de recherche ULaval vise à échang
 08h30 | <span class="date1">ACCUEIL</span>
 08h45 | Mot de bienvenue et mise en contexte
 09h00 | Qu’est-ce qu’une donnée?
-09h30 | Principes FAIR de gestion et gouvernance des données
+09h30 | Présentation des principes FAIR - François Pelletier
 10h00 | La gouvernance des données de recherche à l’ULaval
 10h30 | <span class="date2">PAUSE</span>
 11h00 | Atelier : planifier l’usage et l’analyse des données de recherche 
@@ -38,6 +38,14 @@ _Ex: J’ai une question pour X. Si je le connais, j’hésite moins à le conta
 3. Avoir un portrait global des données et des types de données qui sont collectées, produites, manipulées et analysées à l’ULaval (au sens large: FSG, FSS, CHU, ...)
 4. Débuter une réflexion sur le développement d’une communauté universitaire de ULaval autour des pratiques (de rédaction de proposition de subvention; de gestion de projets de recherche; de production d’articles scientifiques) et des programmes de formation/certification/conformité du personnel.
 <!-- 5. Échanger sur la possibilité de s’ouvrir à l’intra-prenariat entre autres dans le secteur des données. -->
+
+## Présentations
+
+### Présentation des principes FAIR - François Pelletier
+
+Cette histoire est trop commune : Tu as trouvé un article vraiment intéressant publié il y a déjà quelques années. Tu contacte les auteurs pour obtenir les données et reproduire les résultats. Les données qu’on te partage sont dans un fichier Excel rempli de couleurs et d’annotations sans aucune légende. Encore pire, tu réalises que ce n’est qu’une partie des données. Les principes FAIR permettent de mettre en place des bonnes pratiques de partage de données de recherche. Les données doivent être découvrables par des moteurs de recherche, accessibles à la communauté, disponibles dans des formats ouverts qui ne dépendent pas du logiciel qui les a créées et réutilisables pour de futurs projets de recherche. Pour ce faire, on doit assurer leur disponibilité et leur intégrité à long terme. Heureusement, nous avons maintenant accès à la technologie pour le faire. Dans cette présentation, tu pourras découvrir les avantages à utiliser les principes FAIR et des outils pour y arriver.
+
+François Pelletier est professionnel de recherche au Groupe de recherche en physique médicale. Il est co-développeur de la plateforme de recherche en imagerie médicale PARADIM, qui vise à héberger les données de recherche clinique en imagerie médicale en respectant les principes FAIR. Fort de son passé dans le domaine de l’assurance, François nous arrive avec un fort bagage en gestion des données et en conception de solutions infonuagiques. Il est aussi passionné par les aspects de protection de la vie privée et aussi, peut-être paradoxalement, par l’ouverture des données afin de favoriser la recherche et développement, autant au niveau universitaire que dans les entreprises privées et les initiatives citoyennes.
 
 ### Les intérêts de l'IID
 - Comprendre les données des autres secteurs de recherche pour mieux pouvoir les aider, collaborer, et développer les outils et expertises dans la bonne direction
