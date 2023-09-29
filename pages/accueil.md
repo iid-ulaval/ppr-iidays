@@ -20,7 +20,7 @@ La 1ère Journée du personnel professionnel de recherche ULaval vise à échang
 09h30 | [Présentation des principes FAIR](#présentation-des-principes-fair) - François Pelletier
 10h00 | [GDR : le bon soutien au bon moment](#gdr--le-bon-soutien-au-bon-moment) - Émilie Fortin
 10h30 | <span class="date2">PAUSE</span>
-11h00 | Atelier : planifier l’usage et l’analyse des données de recherche 
+11h00 | [Atelier : planifier l’usage et l’analyse des données de recherche ](#atelier--planifier-lusage-et-lanalyse-des-données-de-recherche)
 12h00 | <span class="date3">DÎNER</span>
 13h00 | [Les aspects éthiques et légaux des données de recherche](#les-aspects-éthiques-et-légaux-des-données-de-recherche) - IID
 14h00 | [Les outils disponibles à l’ULaval : calcul et analyse de données](#les-outils-disponibles-à-lulaval--calcul-et-analyse-de-données) - Florent Parent
@@ -29,22 +29,19 @@ La 1ère Journée du personnel professionnel de recherche ULaval vise à échang
 15h30 | Leçons à retenir et perspectives - IID
 16h00 | <span class="date1">4@6 au Fou’AELIÉS</span>
 
-
 ## Objectifs de cette journée
 
-1. Développement de réseaux, se connaître pour fluidifier les échanges entre les personnes ce qui permet une meilleure efficacité dans l’avancement des projets. <br>
-_Ex: J’ai une question pour X. Si je le connais, j’hésite moins à le contacter._
-2. Avoir connaissance des thèmes de recherche/transfert de connaissance, et des outils.
-3. Avoir un portrait global des données et des types de données qui sont collectées, produites, manipulées et analysées à l’ULaval (au sens large: FSG, FSS, CHU, ...)
+1. Développer les réseaux, se connaître pour fluidifier les échanges entre les personnes ce qui permet une meilleure efficacité dans l’avancement des projets. <br>
+2. Améliorer les connaissance des thèmes de recherche/transfert de connaissance, et des outils.
+3. Permettre à chacun de prendre conscience des données et des types de données qui sont collectées, produites, manipulées et analysées à l’ULaval.
 4. Débuter une réflexion sur le développement d’une communauté universitaire de ULaval autour des pratiques (de rédaction de proposition de subvention; de gestion de projets de recherche; de production d’articles scientifiques) et des programmes de formation/certification/conformité du personnel.
-<!-- 5. Échanger sur la possibilité de s’ouvrir à l’intra-prenariat entre autres dans le secteur des données. -->
 
 ## Présentations
 
 ### Qu'est ce qu'une donnée ?
 ##### par IID
 
-[ChatGPT - à revoir] Les données constituent le fondement de la recherche. Elles représentent les éléments concrets et _supposément_ objectifs sur lesquels tout repose, tels que des observations, des faits ou des mesures, qui servent de base à l'exploration et à la compréhension de divers domaines de la connaissance. Ces données peuvent prendre diverses formes, notamment des textes, des chiffres, des images ou des expériences. Les chercheurs collectent, enregistrent et analysent ces données pour en extraire des informations pertinentes, étayer leurs hypothèses et faire progresser leur domaine d'étude. Les données sont le socle sur lequel repose la démarche scientifique, permettant de générer des conclusions éclairées et d'approfondir notre compréhension du monde qui nous entoure. 
+[ChatGPT - à revoir] Les données constituent le fondement de la recherche. Elles représentent les éléments concrets et _supposément_ objectifs sur lesquels tout repose, tels que des observations, des faits ou des mesures, qui servent de base à l'exploration et à la compréhension de divers domaines de la connaissance. Ces données peuvent prendre diverses formes, notamment des textes, des chiffres, des images ou des expériences. Les chercheurs collectent, enregistrent et analysent ces données pour en extraire des informations pertinentes, étayer leurs hypothèses et faire progresser leur domaine d'étude. Les données sont le socle sur lequel repose la démarche scientifique, permettant de générer des conclusions éclairées et d'approfondir notre compréhension du monde qui nous entoure. Cette présentation apportera une base commune sur les notions de données de recherche, de terminologie employée pour permettre de se comprendre tout au long de la journée.
 
 ### Présentation des principes FAIR
 ##### par François Pelletier (@phy.ulaval)
@@ -59,6 +56,11 @@ François Pelletier est professionnel de recherche au Groupe de recherche en phy
 La surabondance d’information ne permet pas toujours de retenir où sont les ressources en GDR offertes par l’Université et il est souvent plus simple de se renseigner auprès des collègues. L’équation est donc simple : plus il y aura de collègues informés au sujet des ressources, meilleur sera le soutien. Cette présentation fera un survol des services offerts pour soutenir la gestion des données de recherche que ce soit à la Bibliothèque (plan de gestion des données, identifiants uniques, licences, publication des données et des résultats de recherche), au VRRCI (BLUM, Premiers Peuples) et à l’extérieur du campus (Alliance). 
 
 Émilie Fortin est bibliothécaire à la gestion des données de recherche et à la préservation numérique à l’Université Laval depuis 2021. Auparavant, elle occupait le poste de responsable de la production numérique, préservation et conservation des collections. Elle a complété sa maîtrise en science de l'information de l'Université de Montréal en passant une année à la Haute école de gestion de Genève. Impliquée dans le groupe d’experts de l’Alliance de recherche numérique sur la préservation, elle est également présidente du groupe de travail sur la gestion des données de recherche du Partenariat des bibliothèques universitaires du Québec. https://orcid.org/0000-0002-9717-6840
+
+### Atelier : planifier l’usage et l’analyse des données de recherche 
+##### par IID
+
+[ChatGPT - à revoir] Plongez dans le monde passionnant de la gestion des données de recherche d'une manière totalement nouvelle (JL - ?) avec notre atelier pratique, conçu sous forme de jeu sérieux ! Vous êtes invité(e) à explorer l'univers complexe de la collecte, de l'organisation et de la préservation des données de recherche tout en vous amusant. Ce jeu interactif vous permettra de mettre en pratique les principes fondamentaux de la gestion des données de manière ludique et immersive. Vous serez confronté(e) à des défis réalistes, tels que la planification de projets de recherche, la documentation des données, et la résolution de problèmes de sécurité. Rejoignez-nous pour une expérience unique qui renforcera vos compétences en gestion des données de recherche tout en vous divertissant !
 
 ### Les aspects éthiques et légaux des données de recherche 
 ##### par Schallum Pierre (@iid.ulaval)
